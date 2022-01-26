@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá! / Hello! 👋
 
-  - 🌱 I’m currently learning full stack web development
+  - 🌱 Atualemnte estudando Desenvolvimento Web || I’m currently learning web development
 <!--
 **Vitor7rs/Vitor7rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
