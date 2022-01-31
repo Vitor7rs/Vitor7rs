@@ -9,7 +9,7 @@
 </div> 
   
   ##
-  ### :bulb: Linguagens e ferramentas || Languages and Tools :bulb:
+  ### :bulb: Linguagens e Ferramentas || Languages and Tools :bulb:
   
 <div>
   <img height='49px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5"/>
