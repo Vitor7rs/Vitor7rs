@@ -7,8 +7,10 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Vitor7rs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor7rs&layout=compact&langs_count=7&theme=onedark"/>
 </div> 
+  
   ##
   ### :bulb: Linguagens e Ferramentas || Languages and Tools :bulb:
+  
 <div>
   <img height='49px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5"/>
   <img height='49px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3"/>
