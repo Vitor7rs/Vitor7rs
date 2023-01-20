@@ -1,4 +1,8 @@
-### Olá! / Hello! 👋
+<div align="center">
+
+  ## Olá! / Hello! 👋
+  
+</div>
 
   - 🌱 Atualmente estudando Desenvolvimento Web || I’m currently learning web development
 
