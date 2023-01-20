@@ -30,7 +30,7 @@
   
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-macedo-38852b214/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white" alt="linkedin-link" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-link" />
   </a>
   <a href="https://www.instagram.com/vitor7rs/?hl=pt-br">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-link" />
